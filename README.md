@@ -1,4 +1,3 @@
-# Proposal-FJC
 # 🚀 Upload Image to S3 bằng API Gateway và Lambda
 
 📌 **Người thực hiện:** Vũ Yên Định  
